@@ -1,0 +1,26 @@
+h1 {
+    color: goldenrod;
+    font-size: 2.8rem;
+    text-shadow: 2px 2px black;
+}
+body {
+    background-color: rgb(98, 162, 2);
+    color: white;
+    text-align: center;
+}
+p {
+    font-size: 1.8rem;
+}
+button {
+    background-color: rgb(245, 191, 56);
+    color: rgb(98, 162, 2);
+    font-size: 2rem;
+    padding: 1rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    display: block;
+    margin: 15px auto;
+}
+button:hover {
+    background-color: rgb(235, 180, 15);
+}
